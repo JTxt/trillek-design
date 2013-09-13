@@ -6,6 +6,8 @@ http://forum.trillek.org/viewtopic.php?f=12&t=491
 
 http://www.renaigames.com/files/Trillek/DDTemplate.doc 
 
+http://creativecommons.org/licenses/by-sa/3.0/
+
 
 1 Concept
 ---------
