@@ -1,12 +1,13 @@
-#Concept and Design Document Template#
+#Trillek Design Current Consensuses#
 
-Template released by DarkSpartan Sep 11, 2013 
-
-http://forum.trillek.org/viewtopic.php?f=12&t=491
-
-http://www.renaigames.com/files/Trillek/DDTemplate.doc 
+This is a compilation of the current consensuses on http://forum.trillek.com
 
 http://creativecommons.org/licenses/by-sa/3.0/
+
+*based off [Template Released by DarkSpartan](http://forum.trillek.org/viewtopic.php?f=12&t=491) Sep 11, 2013*
+
+**Post credit and links to inspirarion and sources.**
+
 
 
 1 Concept
