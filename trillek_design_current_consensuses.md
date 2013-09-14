@@ -15,14 +15,13 @@ http://creativecommons.org/licenses/by-sa/3.0/<br />
 ---------
 
 ### 1.1  Title Page 
-*(Game Name, Game logo, Game type)*
 
-### Trillek 
+**Game Name:** Trillek 
 `name credit: ?`
 
-![Trillek](http://forum.trillek.org/styles/prosilver/imageset/trillek_logo.png) `logo credit: ?`
+**Logo:** ![Trillek](http://forum.trillek.org/styles/prosilver/imageset/trillek_logo.png) `logo credit: ?`
 
-Space Simulator
+**Game Type:**  Space Simulator
 
 
 ### 1.2  Credits
