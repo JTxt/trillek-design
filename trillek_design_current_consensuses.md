@@ -17,14 +17,17 @@ http://creativecommons.org/licenses/by-sa/3.0/<br />
 ### 1.1  Title Page 
 *(Game Name, Game logo, Game type)*
 
-(blank)
+### Trillek 
+`name credit: ?`
 
-> credit:
+![Trillek](http://forum.trillek.org/styles/prosilver/imageset/trillek_logo.png) `logo credit: ?`
+
+Space Simulator
 
 
 ### 1.2  Credits
 
-(blank)
+Trillek is inspired by Notch's 0x10c.  (please fill out a bit of the history here)  Credits will be listed under each idea.
 
 
 ### 1.3  Sign Off
@@ -41,7 +44,7 @@ http://creativecommons.org/licenses/by-sa/3.0/<br />
 ### 1.5  Game Analysis##
 
 ####  1.5.1  Genre
-  (blank)
+  FPS Space Simulator
 
 
 ####  1.5.2  Game Elements
@@ -53,15 +56,15 @@ http://creativecommons.org/licenses/by-sa/3.0/<br />
 
 
 ####  1.5.4  Theme
-  (blank)
+  Space?
 
 
 ####  1.5.5  Style
-  (blank)
+  Pixelated?
 
 
 ####  1.5.6  Sequence
-  (blank)
+  ?
 
 
 ####  1.5.7  Technical Information:
