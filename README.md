@@ -1,6 +1,7 @@
 ##Please help fill out and edit: <br />[Trillek Design - Current Consensuses - Unofficial](https://github.com/JTxt/trillek-design/blob/master/trillek_design_current_consensuses.md)
 
-Let's write down what we agree on first and why before forking the idea please.
+Please, let's write down what we agree on first and why before forking the idea. 
+After that you can flesh out the game YOU want it to be.
 
 -JTxt
 
