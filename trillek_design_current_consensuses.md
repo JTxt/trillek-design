@@ -1,12 +1,12 @@
-#Trillek Design Current Consensuses#
+#Trillek Design Current Consensuses - Unofficial#
 
-This is a compilation of the current consensuses on http://forum.trillek.com
+**This is an unofficial compilation of the current consensuses on http://forum.trillek.com**<br />
+http://creativecommons.org/licenses/by-sa/3.0/<br />
+*based off [Template Released by DarkSpartan](http://forum.trillek.org/viewtopic.php?f=12&t=491) Sep 11, 2013*<br />
 
-http://creativecommons.org/licenses/by-sa/3.0/
+###Design Guidelines##
 
-*based off [Template Released by DarkSpartan](http://forum.trillek.org/viewtopic.php?f=12&t=491) Sep 11, 2013*
-
-**Post credit and links to inspirarion and sources.**
+1. **Post credit and links to inspiration and sources under each section.**
 
 
 
@@ -18,6 +18,8 @@ http://creativecommons.org/licenses/by-sa/3.0/
 
 (blank)
 
+> credit:
+
 
 ### 1.2  Credits
 
@@ -25,7 +27,8 @@ http://creativecommons.org/licenses/by-sa/3.0/
 
 
 ### 1.3  Sign Off
-*Game Design Sign-Off:*</br>
+*Game Design Sign-Off:*
+
 (blank)
 
 
