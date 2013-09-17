@@ -1,6 +1,6 @@
 #Trillek Design - Current Consensuses - Unofficial#
 
-**This is a compilation of the current consensuses on http://forum.trillek.com as of Sep. 13, 2013**<br />
+**This is a compilation of the current consensuses on http://forum.trillek.org as of Sep. 13, 2013**<br />
 **Incomplete-** Please edit and help fill it out and send pull requests.<br />
 http://creativecommons.org/licenses/by-sa/3.0/<br />
 *(based on [template Released by DarkSpartan on Sep 11, 2013](http://forum.trillek.org/viewtopic.php?f=12&t=491))*<br />
